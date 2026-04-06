@@ -2,9 +2,9 @@
 Group Project for Data Science by Josh Allen, Giang Do, and Will Weeks
 
 # Prerequisites
-Python 
-Pandas 
-Matplotlib 
+Python \n
+Pandas \n
+Matplotlib \n
 Jupyter Notebook / Any IDE 
 
 # Features
