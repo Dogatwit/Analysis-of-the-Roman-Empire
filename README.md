@@ -2,13 +2,13 @@
 Group Project for Data Science by Josh Allen, Giang Do, and Will Weeks
 
 # Prerequisites
-Python 
+ * Python 
 
-Pandas 
+ * Pandas 
 
-Matplotlib 
+ * Matplotlib 
 
-Jupyter Notebook / Any IDE 
+ * Jupyter Notebook / Any IDE 
 
 # Features
 Contains information from the Roman Empire using the csv from multiple sources to see the progression of the Roman Empire as well as the downfall of it throughout its entire lifespan. The project shows the correlation of wheat prices and its correlation to the economy, current ruling emperors, as well as the currency used at the time. It also display a regression line and a polynomial regression curve 
